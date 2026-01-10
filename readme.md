@@ -22,7 +22,7 @@
   <p style="font-size: 16px; width: 80%;">
     I am a <strong>Developer</strong> who builds the engine behind the interface. <br/>
     Focused on <strong>Data Structures</strong>, <strong>API Design</strong>, and <strong>System Efficiency</strong>. <br/>
-    Currently bridging the gap between theoretical <strong>DSA</strong> and real-world <strong>Product Development</strong>.
+
   </p>
 </div>
 
