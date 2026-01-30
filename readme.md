@@ -7,7 +7,7 @@
   </a>
 
   <p align="center">
-     <img src="https://komarev.com/ghpvc/?username=ADITYA-CODES-1-3&label=VIEWS&color=302b63&style=for-the-badge" alt="Profile Views" />
+     <img src="https://komarev.com/ghpvc/?username=code-a13&label=VIEWS&color=302b63&style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
