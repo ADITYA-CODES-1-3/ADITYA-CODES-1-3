@@ -10,8 +10,6 @@
                      __/ |    
                     |___/     
 
-aditya@linux:~$ printf "Aditya\n"
-Aditya
 </pre>
 
 <b style="color:#00ff00;">SOFTWARE DEVELOPER</b> |
