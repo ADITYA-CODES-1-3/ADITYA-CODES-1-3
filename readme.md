@@ -1,6 +1,6 @@
 <div align="left">
 
-<pre>
+<pre style="background-color:#000000; color:#00ff00; padding:20px; border-radius:8px; font-family:monospace;">
    ___      _ _ _             
   / _ \    | (_) |            
  / /_\ \ __| |_| |_ _   _  __ _ 
@@ -10,9 +10,12 @@
                      __/ |    
                     |___/     
 
+aditya@linux:~$ printf "Aditya\n"
+Aditya
 </pre>
 
-<b>SOFTWARE DEVELOPER</b> | <b>PROBLEM SOLVER</b>
+<b style="color:#00ff00;">SOFTWARE DEVELOPER</b> |
+<b style="color:#00ff00;">PROBLEM SOLVER</b>
 
 </div>
 
